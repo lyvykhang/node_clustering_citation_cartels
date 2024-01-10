@@ -1,4 +1,4 @@
-# gnn-clustering-citation-cartels
+# node-clustering-citation-cartels
 
 Contains node clustering experiments focusing on a co-authorship graph generated from a list of retracted Hindawi papers (discussed in [this ForBetterScience article](https://forbetterscience.com/2023/01/03/hindawi-garbage-sorting-system-based-on-citations/)). A paper's clustering is propagated to all its authors. 
 
